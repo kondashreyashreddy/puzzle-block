@@ -4,4 +4,4 @@ Puzzle Block is an interactive game that uses user interactions to rotate puzzle
 ## Program Type
 Created in Code.org's Game Lab. This program was converted from block modules to JavaScript.
 ## Program Creation Date
-This program was created in December, 2025 in Code.org
+This program was created in December of 2025 in Code.org
